@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "3DCoMPaT: Composition of Materials on Parts of 3D Things"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2022-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,30 +14,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "3DCoMPaT: Composition of Materials on Parts of 3D Things"
+publication_short: "3DCoMPaT"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: 3D CoMPaT is a richly annotated large-scale dataset of rendered compositions of Materials on Parts of thousands of unique 3D Models. This dataset primarily focuses on stylizing 3D shapes at part-level with compatible materials. Each object with the applied part-material compositions is rendered from four equally spaced views as well as four randomized views. We introduce a new task, called Grounded CoMPaT Recognition (GCR), to collectively recognize and ground compositions of materials on parts of 3D objects. We present two variations of this task and adapt state-of-art 2D/3D deep learning methods to solve the problem as baselines for future research. We hope our work will help ease future research on compositional 3D Vision.
 
 tags:
-- Large Language Models
+- 3D
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+- name: HomePages
+  url: https://3dcompat-dataset.org/v1/
+url_pdf: https://arxiv.org/html/2310.18511v2
+url_code: 'https://github.com/Vision-CAIR/3DCoMPaT'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
 url_slides: ''
 url_source: '#'
-url_video: '#'
+url_video: 'https://youtu.be/DT6I1EYqzis'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

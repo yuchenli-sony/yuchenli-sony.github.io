@@ -7,7 +7,7 @@
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu8869694478562932470.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
@@ -34,9 +34,9 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
+      <title>3DCoMPaT: Composition of Materials on Parts of 3D Things</title>
       <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/preprint/</guid>
       <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
