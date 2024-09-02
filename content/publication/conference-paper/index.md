@@ -44,12 +44,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2206.04670'
 url_code: 'https://github.com/guochengqian/pointnext'
 url_dataset: 'https://github.com/guochengqian/pointnext'
-url_poster: ''
-url_project: ''
-url_slides: ''
+url_poster: 'https://neurips.cc/media/PosterPDFs/NeurIPS%202022/d6c651ddcd97183b2e40bc464231c962.png?t=1666474060.4928956'
+url_project: 'https://neurips.cc/virtual/2022/poster/55338'
+url_slides: 'https://neurips.cc/virtual/2022/poster/55338'
 url_source: 'https://github.com/guochengqian/pointnext'
 
 # Featured image
