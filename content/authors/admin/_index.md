@@ -1,12 +1,13 @@
 ---
-
 # Display name
-title: Yuchen Li 李禹陈
+title: 吳健雄
+
+# Name pronunciation (optional)
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Yuchen
-last_name: Li
-
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -19,27 +20,27 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD in Computer Vision
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:  Mohamed Bin Zayed University of AI
-    url: https://mbzuai.ac.ae/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'yuchenlichuck'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/yuchenlichuck
+    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/yuchenlichuck
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/liyc
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -51,16 +52,37 @@ interests:
   - Information Retrieval
 
 education:
-  courses:
-    - course: PhD in Computer Vision
-      institution: Mohamed Bin Zayed University of AI
-      year: 2027
-    - course: MSc in Computer Science
-      institution: King Abdullah University of Science and Technology
-      year: 2022
-    - course: BSc in Computer Science and Technology
-      institution: Southern University of Science and Technology
-      year: 2021
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -124,7 +146,8 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -160,4 +183,4 @@ awards:
 
 ## About Me
 
-Yuchen Li, MBZUAI Computer Vision Ph.D., is a young talent with a global perspective and a profound background in technology. Born in Hefei, China, he received his undergraduate and graduate education at the Southern University of Science and Technology in Shenzhen and KAUST in Saudi Arabia, respectively, specializing in 3D deep learning and meta-learning, with published papers in ECCV and NeurIPS top AI conference. He has garnered a wealth of experience from around the world, at places like Emirates Airlines, the Dubai Future Lab, Saudi Aramco, and iFLYTEK, and continues to shine as a member of the 8th cohort of Dubai's Business Talent. Alongside pursuing advancements in technology, he actively participates in public welfare activities, having volunteered at a refugee school in Lebanon, and traveled to 25 countries. His mission is to make a positive impact on his community and the world through his expertise and global experiences, whether through technological innovation or through educational and volunteer services.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
