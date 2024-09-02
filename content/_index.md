@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Yuchen Li’s research primarily focuses on 3D vision and deep learning, particularly in the domain of 3D content generation. His work involves innovative approaches using diffusion models and 3D Gaussian segmentation methods to create realistic and high-quality 3D content. Yuchen has a strong academic background, having published papers at top conferences like ECCV and NeurIPS. 
+        
+        He is particularly interested in advancing AI-generated content (AIGC) within specialized scenarios, with a focus on enhancing the quality and applicability of 3D models in various industries. Additionally, Yuchen is exploring the intersection of AI and the creative arts, as demonstrated by his current internship at Sony Research Institute, where he is working on music-driven human dance generation. His research is at the forefront of AI technology, aiming to push the boundaries of what is possible in 3D content creation and application.
         
         Please reach out to collaborate 😃
     design:
