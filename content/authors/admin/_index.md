@@ -1,7 +1,7 @@
 ---
 
 # Display name
-title: Yuchen Li 李禹陈
+title: Yuchen Li
 
 # Full name (for SEO)
 first_name: Yuchen
@@ -19,31 +19,30 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD in Computer Vision
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:  Mohamed Bin Zayed University of AI
+  - name: Mohamed Bin Zayed University of Science and Technology
     url: https://mbzuai.ac.ae/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:yuchenlichuck@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/Yuchen_LiLi
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/yuchenlichuck
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/yuchenlichuck
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/liyc
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=7MocPGkAAAAJ&hl=en
+
 
 interests:
   - Artificial Intelligence
