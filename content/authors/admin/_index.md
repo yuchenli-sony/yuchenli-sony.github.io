@@ -74,28 +74,90 @@ education:
       GPA: 3.4/4.0
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Innovation Associate
+    company_name: Dubai Business Associates
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: 2023-06-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Selected as part of a highly competitive 9-month mini-MBA program from over 3,000 applicants with an acceptance rate of 1%, under the patronage of HH Sheikh Mohamed bin Rashid, Prime Minister of the UAE and Ruler of Dubai.
+      - Completed rigorous training in strategy consulting, business in the MENA region, data modeling, and business pitching through PwC Academy and Capdev.
+      - Engaged in practical projects that bridged business theory and practice, focusing on innovative solutions for regional business challenges.
+      - Collaborated with top professionals and mentors to develop a deep understanding of the MENA business landscape.
+
+  - position: External Consultant @ Cabin Crew Service and Management
+    company_name: Emirates Airlines
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-03-01
+    date_end: 2023-06-30
+    summary: |
+      Responsibilities include:
+      - Contributed to the development of a comprehensive 3-year strategic plan for the Cabin Crew division, focusing on internal and external assessments.
+      - Conducted gap analysis to identify discrepancies between the current state and desired outcomes, recommending actionable initiatives.
+      - Benchmarked against other leading airlines’ cabin crew performance and services, identifying best practices and providing specific recommendations.
+
+  - position: Research Intern @ Dubai Future Lab
+    company_name: Dubai Future Foundation
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-10-01
+    date_end: 2023-01-31
+    summary: |
+      Responsibilities include:
+      - Implemented SegFormer for sidewalk segmentation, achieving a mean Intersection over Union (mIoU) of 95%, optimizing robot navigation systems using Nvidia ROS2.
+      - Contributed to projects that are at the forefront of AI and robotics, facilitating the future of autonomous technologies in Dubai.
+      - Worked closely with a multidisciplinary team to advance the foundation's vision of a tech-enabled future.
+
+  - position: Research Intern @ KAUST AI Center
+    company_name: Saudi Aramco
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-06-01
+    date_end: 2022-08-31
+    summary: |
+      Responsibilities include:
+      - Focused on 3D rock reconstruction, utilizing advanced techniques to embed geometric information within a comprehensive 3D graph.
+      - Collaborated with top researchers to enhance understanding of subsurface geology, contributing to Saudi Aramco’s exploration and extraction processes.
+      - Presented findings that influenced ongoing research and development within the AI Center.
+
+  - position: Research Intern @ AI Institute
+    company_name: iFLYTEK
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-08-01
+    date_end: 2020-10-31
+    summary: |
+      Responsibilities include:
+      - Researched Second Language Acquisition Modeling using the Duolingo Dataset, applying Deep Learning to deliver personalized educational recommendations.
+      - Developed models that enhanced English reading comprehension, contributing to iFLYTEK’s suite of AI-powered educational tools.
+      - Worked with a team of AI experts to explore new applications of machine learning in language acquisition.
+
+  - position: Summer of Code Student Developer & Open Source Contributor
+    company_name: Alibaba
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-03-01
+    date_end: 2019-07-31
+    summary: |
+      Responsibilities include:
+      - Developed the Apache RocketMQ JDBC Connector, contributing 23 commits and 3.4k lines of code to the external project of RocketMQ.
+      - Standardized code style, structured the code base, and resolved bugs to ensure functionality across various use cases.
+      - Enhanced the runtime environment, wrote new functions, synchronized information across the cluster, and authored comprehensive documentation.
+
+  - position: Project Intern @ Cloud and Smart Industries Group
+    company_name: Tencent
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-10-01
+    date_end: 2018-12-31
+    summary: |
+      Responsibilities include:
+      - Analyzed and resolved submission issues within the problem stack targeting system, improving the performance of an open-source app.
+      - Collaborated with the Cloud and Smart Industries Group to enhance the quality of cloud-based solutions.
+      - Provided technical support and insights that contributed to the overall success of the project.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
