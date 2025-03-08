@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Yuchen Li’s research primarily focuses on 3D vision and deep learning, particularly in the domain of 3D content generation. His work involves innovative approaches using diffusion models and 3D Gaussian segmentation methods to create realistic and high-quality 3D content. Yuchen has a strong academic background, having published papers at top conferences like ECCV and NeurIPS. 
-        
-        He is particularly interested in advancing AI-generated content (AIGC) within specialized scenarios, with a focus on enhancing the quality and applicability of 3D models in various industries. Additionally, Yuchen is exploring the intersection of AI and the creative arts, as demonstrated by his current internship at Sony Research Institute, where he is working on music-driven human dance generation. His research is at the forefront of AI technology, aiming to push the boundaries of what is possible in 3D content creation and application.
-        
-        Please reach out to collaborate 😃
+        Yuchen Li’s research is at the cutting edge of AI, deep learning, and 3D vision. As the first author of “3D-CoMPaT” (presented orally at ECCV) and the first author of the highly cited NeurIPS paper “PointNeXt” (with over 710 citations), his work demonstrates a strong commitment to advancing 3D content generation and perception. His expertise spans Visual Language Foundational Models (VLMs) for image, video, 3D, and 4D generation, as well as innovative approaches using diffusion models and 3D Gaussian segmentation to create realistic, high-quality 3D content.
+
+        In addition to his research, Yuchen has played key roles as a core organizer of a CVPR workshop and as a reviewer for prestigious conferences such as TPAMI, CVPR, ICCV, and NeurIPS. He is also an active open-source contributor to Apache RocketMQ, a high-performance distributed messaging platform.
+
+        Currently, during his internship at Sony Research Institute, Yuchen is exploring the intersection of AI and the creative arts through projects like music-driven human dance generation. His work not only pushes the boundaries of what’s possible in 3D content creation but also aims to enhance its applicability across various industries.
+
+        Please feel free to reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection

@@ -51,7 +51,7 @@ interests:
 
 education:
   - area: PhD in Computer Vision
-    institution: Mohamed Bin Zayed University of Science and Technology
+    institution: Mohamed Bin Zayed University of Artificial Intelligence
     date_start: 2023
     date_end: 2027
     summary: |
@@ -64,14 +64,14 @@ education:
     date_start: 2020
     date_end: 2022
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.7/4.0
 
   - area: BSc in Computer Science and Technology
     institution: Southern University of Science and Technology
     date_start: 2017
     date_end: 2021
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.6/4.0
 
 work:
   - position: Director of Cloud Infrastructure
@@ -173,6 +173,4 @@ awards:
 
 ## About Me
 
-I am the first author of an ECCV (oral presentation) and a NeurIPS paper PointNeXt (citation 350+), and serving as a core organizer for a
-CVPR Workshop, a CVPR reviewer; Chinese Angel investors ZhenFund's ZhenResidence, MiraclePlus (Y Combinator China) Fellow
-My interests: The New Progress of Reform and Opening-Up in the Middle East and the Frontiers of Generative Artificial Intelligence
+I am the first author of “3D-CoMPaT,” presented orally at ECCV, and the primary author of the highly cited NeurIPS paper “PointNeXt” (over 710 citations). I have served as a core organizer of a CVPR workshop and have reviewed submissions for top-tier AI conferences, including TPAMI, CVPR, ICCV, and NeurIPS. Additionally, I am a key open-source contributor to Apache RocketMQ, a high-performance distributed messaging platform. My research centers on Visual Language Foundational Models (VLMs) for image, video, 3D, and 4D generation and perception.
