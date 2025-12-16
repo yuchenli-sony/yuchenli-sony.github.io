@@ -40,7 +40,7 @@ profiles:
     url: https://www.liyc.pw
     label: Website
   - icon: brands/x
-    url: https://twitter.com/Yuchen_LiLi
+    url: https://x.com/Dr_Yuchen
   - icon: brands/instagram
     url: https://www.instagram.com/yuchenlichuck
   - icon: brands/github
