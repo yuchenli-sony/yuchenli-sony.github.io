@@ -37,7 +37,7 @@ profiles:
     url: 'tel:+12064553320'
     label: Call Me
   - icon: link
-    url: https://www.liyc.space
+    url: https://www.liyc.pw
     label: Website
   - icon: brands/x
     url: https://twitter.com/Yuchen_LiLi
