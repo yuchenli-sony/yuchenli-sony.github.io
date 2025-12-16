@@ -30,20 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'My Research'
-      subtitle: ''
-      text: |-
-        My research focuses on Multimodal Visual Language Foundation Models (VLMs) for image, video, 3D, and 4D generation and perception.
-
-        I am the first author of 3D-CoMPaT (ECCV Oral) and 3D-CoMPaT++ (TPAMI 2025, accepted), and I led the NeurIPS paper PointNeXt (1,000+ citations). I have served as a core organizer of a CVPR workshop and as a program chair and reviewer for leading AI venues such as TPAMI, IJCV, CVPR, ICCV, AAAI, TCSVT, and NeurIPS.
-
-        I previously interned at Amazon Science (Prime Video, Seattle) and Sony AI (Tokyo), working on VLMs with 2D/3D perception reasoning and music-driven diffusion models for synchronized human dance generation.
-
-        Feel free to reach out for collaboration.
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:

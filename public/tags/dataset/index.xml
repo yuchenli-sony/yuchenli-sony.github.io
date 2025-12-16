@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dataset | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/dataset/</link>
-      <atom:link href="http://localhost:1313/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/dataset/</link>
+      <atom:link href="https://example.com/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
     <description>Dataset</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu8869694478562932470.png</url>
+      <url>https://example.com/media/icon_hu8869694478562932470.png</url>
       <title>Dataset</title>
-      <link>http://localhost:1313/tags/dataset/</link>
+      <link>https://example.com/tags/dataset/</link>
     </image>
     
     <item>
       <title>3DCoMPaT&#43;&#43;: An Improved Large-scale 3D Vision Dataset for Compositional Recognition</title>
-      <link>http://localhost:1313/publication/3d-compat-plus-plus/</link>
+      <link>https://example.com/publication/3d-compat-plus-plus/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/3d-compat-plus-plus/</guid>
+      <guid>https://example.com/publication/3d-compat-plus-plus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D CoMPaT Dataset: Composition of Materials on Parts of 3D Things</title>
-      <link>http://localhost:1313/publication/3d-compat/</link>
+      <link>https://example.com/publication/3d-compat/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/3d-compat/</guid>
+      <guid>https://example.com/publication/3d-compat/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,13 @@
+/*
+ * Home page: remove any accidental left/top offsets on the "My Research" block.
+ * This targets the container rendered by the landing-page markdown block.
+ */
+#section-markdown > div.flex {
+  position: static !important;
+  left: auto !important;
+  top: auto !important;
+  right: auto !important;
+  bottom: auto !important;
+  inset: auto !important;
+  transform: none !important;
+}
