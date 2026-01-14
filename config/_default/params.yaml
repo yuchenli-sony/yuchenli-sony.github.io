@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Yuchen Li is a PhD researcher in Computer Vision at MBZUAI, working on multimodal visual language models for image/video/3D/4D generation and perception.'
-    twitter: ''
+    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
