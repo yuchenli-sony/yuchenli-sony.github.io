@@ -251,7 +251,7 @@ awards:
 
 I am a PhD researcher in Computer Vision at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI). My research focuses on Multimodal Visual Language Models (VLMs) for image, video, 3D, and 4D generation and perception.
 
-I am the first author of 3D-CoMPaT (ECCV Oral) and 3D-CoMPaT++ (TPAMI 2025, accepted). I also led the NeurIPS paper PointNeXt (1,000+ citations). My work Exploring Scaling Laws of PointNets received a Spotlight Talk at 3DV 2025.
+I am the first author of Perceptio (arXiv), on perception-enhanced vision-language models via spatial token generation, from my internship at Amazon Science. I am also the first author of 3D-CoMPaT (ECCV Oral) and 3D-CoMPaT++ (TPAMI 2025, accepted). I led the NeurIPS paper PointNeXt (1,000+ citations). My work Exploring Scaling Laws of PointNets received a Spotlight Talk at 3DV 2025.
 
 I have served as a core organizer of a CVPR workshop and as a program chair and reviewer for leading AI conferences and journals such as TPAMI, IJCV, CVPR, ICCV, AAAI, TCSVT, and NeurIPS. I also contributed to Apache RocketMQ as an open-source developer.
 

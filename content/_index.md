@@ -34,6 +34,8 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      # Include all items with featured: true (default cap is 5 if omitted)
+      count: 20
       filters:
         folders:
           - publication
