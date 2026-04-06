@@ -23,3 +23,6 @@ mounts:
     target: layouts
   - source: assets
     target: assets
+  # Link-in-bio page at repo root → copied to site as /qrcode/ (does not replace homepage)
+  - source: qrcode
+    target: static/qrcode
