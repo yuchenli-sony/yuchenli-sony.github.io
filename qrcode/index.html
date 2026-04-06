@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f2f2f4" />
+    <title>Yuchen Li | PhD @ MBZUAI</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="profile">
+        <img class="avatar" src="assets/logos/profile.png" alt="Yuchen Li" width="96" height="96" />
+        <h1 class="profile-name">Yuchen Li | PhD @ MBZUAI</h1>
+      </header>
+
+      <nav class="links" aria-label="社交与主页链接">
+        <a class="link-card" href="https://github.com/yuchenlichuck" target="_blank" rel="noopener noreferrer">
+          <div class="link-icon" aria-hidden="true">
+            <img src="assets/logos/github.png" alt="" />
+          </div>
+          <span class="link-label">GitHub</span>
+          <span class="link-chevron" aria-hidden="true">›</span>
+        </a>
+
+        <a
+          class="link-card"
+          href="https://scholar.google.com/citations?user=7MocPGkAAAAJ&hl=en"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <div class="link-icon" aria-hidden="true">
+            <img src="assets/logos/googlescholar.png" alt="" />
+          </div>
+          <span class="link-label">谷歌学术 Google Scholar</span>
+          <span class="link-chevron" aria-hidden="true">›</span>
+        </a>
+
+        <a class="link-card" href="https://www.linkedin.com/in/liyc/" target="_blank" rel="noopener noreferrer">
+          <div class="link-icon" aria-hidden="true">
+            <img src="assets/logos/linkedin.png" alt="" />
+          </div>
+          <span class="link-label">领英 Linkedin</span>
+          <span class="link-chevron" aria-hidden="true">›</span>
+        </a>
+
+        <a
+          class="link-card"
+          href="https://www.xiaohongshu.com/user/profile/5b788ddd2cc31d0001487a94"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <div class="link-icon" aria-hidden="true">
+            <img src="assets/logos/rednote.png" alt="" />
+          </div>
+          <span class="link-label">小红书 RedNotes</span>
+          <span class="link-chevron" aria-hidden="true">›</span>
+        </a>
+
+        <a class="link-card" href="https://liyc.pw/" target="_blank" rel="noopener noreferrer">
+          <div class="link-icon" aria-hidden="true">
+            <img src="assets/logos/homepage.jpg" alt="" />
+          </div>
+          <span class="link-label">个人主页 HomePage</span>
+          <span class="link-chevron" aria-hidden="true">›</span>
+        </a>
+
+        <button type="button" class="link-card link-card--button" id="wechat-open" aria-haspopup="dialog">
+          <div class="link-icon" aria-hidden="true">
+            <img src="assets/logos/wechatlogo.png" alt="" />
+          </div>
+          <span class="link-label">微信 Wechat</span>
+          <span class="link-chevron" aria-hidden="true">›</span>
+        </button>
+      </nav>
+    </main>
+
+    <dialog class="wechat-dialog" id="wechat-dialog" aria-labelledby="wechat-dialog-title">
+      <div class="wechat-dialog__panel">
+        <button type="button" class="wechat-dialog__close" id="wechat-close" aria-label="关闭">×</button>
+        <h2 class="wechat-dialog__title" id="wechat-dialog-title">微信二维码</h2>
+        <img
+          class="wechat-dialog__img"
+          src="assets/logos/wechat.png"
+          alt="微信二维码，长按图片可保存到相册"
+          width="512"
+          height="512"
+        />
+        <p class="wechat-dialog__hint">长按图片可保存到相册</p>
+      </div>
+    </dialog>
+
+    <script>
+      (function () {
+        var openBtn = document.getElementById("wechat-open");
+        var dialog = document.getElementById("wechat-dialog");
+        var closeBtn = document.getElementById("wechat-close");
+        if (!openBtn || !dialog) return;
+
+        openBtn.addEventListener("click", function () {
+          if (typeof dialog.showModal === "function") {
+            dialog.showModal();
+          } else {
+            window.open("assets/logos/wechat.png", "_blank", "noopener");
+          }
+        });
+
+        closeBtn.addEventListener("click", function () {
+          dialog.close();
+        });
+
+        dialog.addEventListener("click", function (e) {
+          if (e.target === dialog) dialog.close();
+        });
+
+        document.addEventListener("keydown", function (e) {
+          if (e.key === "Escape" && dialog.open) dialog.close();
+        });
+      })();
+    </script>
+  </body>
+</html>
